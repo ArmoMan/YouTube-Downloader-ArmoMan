@@ -26,8 +26,13 @@ Links not working for the moment please give us time to develop the app
 > [!CAUTION]
 > * Please we count on you to download videos that you have the rights to.
 > * PLEASE DON'T DOWNLOAD VIDEOS FROM YOUR MOBILE DATA. USE WIFI INSTEAD.
+
+## App pictures / how to use
+
 ## Updates
 
-## App pictures
+## Video tutorial
+https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/assets/116087159/b1c48d48-5f17-4c85-9362-d1fbc1d611c8
+
 
 ### Terms of use
