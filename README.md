@@ -21,10 +21,10 @@ Links not working for the moment please give us time to develop the app
 >* Please give the application the required permissions in order for it to work properly.
 >* We need storage permissions to download the mp3 files
 >* We need internet permissions to connect to internet.
->* We need bluethoot permissions in order for the app to receive updates.
+>* We need bluetooth permissions in order for the app to receive updates.
 
 > [!CAUTION]
-> * Please we count on you to download videos that you have the right to.
+> * Please we count on you to download videos that you have the rights to.
 > * PLEASE DON'T DOWNLOAD VIDEOS FROM YOUR MOBILE DATA. USE WIFI INSTEAD.
 ## Updates
 
