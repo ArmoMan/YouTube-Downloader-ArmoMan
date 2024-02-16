@@ -44,7 +44,7 @@ Links not working for the moment please give us time to develop the app
 
 
 ### Updates
-* Version 1.1
+* Version 1.1 (soon)
   - Reduce the amount of advertisments
   - Coming soon
 * Version 1.0
