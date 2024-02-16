@@ -1,6 +1,24 @@
-# YouTube Downloader ArmoMan
-An android application to download audio (mp3) from YouTube videos and from playlists.
+<p align="center">
+  <p align="center">
+   <img width="128px" src="https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/assets/116087159/d1d2d791-b95b-4db8-8ec8-c6b4929a7717" />
+  </p>
+	<h1 align="center"><b>YouTube Downloader ArmoMan</b></h1>
+	<p align="center">
+		An android application to download audio (mp3) from YouTube videos and from playlists.
+    <br />
+    <br />
+    <br />
+    <b>Download for </b>
+    Android phones (<a href="https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/releases">GitHub Releases</a> |
+      <a href="https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/releases">SourceForge</a>) 
+    <br />
+    <i>~ Look down for more informations ~</i>
+  </p>
+</p>
 
+<br/>
+
+<hr/>
 
 ### Features
 * It is FREE
@@ -11,6 +29,7 @@ An android application to download audio (mp3) from YouTube videos and from play
 * New updates coming soon
 * More there are users, the less ads there will be (until deleting completely the ads)
 
+<hr/>
   
 ### Download APK (app) file links
 Download from here:
@@ -29,6 +48,7 @@ Links not working for the moment please give us time to develop the app
 > * Please we count on you to download videos that you have the rights to.
 > * PLEASE DON'T DOWNLOAD VIDEOS FROM YOUR MOBILE DATA. USE WIFI INSTEAD.
 
+<hr/>
 
 ### App pictures / how to use
 * App pictures
@@ -43,6 +63,7 @@ Links not working for the moment please give us time to develop the app
 | ----------------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
 |  <img src="https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/blob/main/pictures/four.png" width="200"> | <img src="https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/blob/main/pictures/five.png" width="200">| <img src="https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/blob/main/pictures/six.png" width="200"> | 
 
+<hr/>
 
 ### Updates
 * Version 1.1 (soon)
@@ -53,10 +74,12 @@ Links not working for the moment please give us time to develop the app
   - Mp3 playlist download
   - App crash fix
 
+<hr/>
 
 ### Video tutorial
 https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/assets/116087159/b1c48d48-5f17-4c85-9362-d1fbc1d611c8
 
+<hr/>
 
 ### Terms of use
 Please we count on you to download videos that you have the rights to. We have no responsibility for your actions.
