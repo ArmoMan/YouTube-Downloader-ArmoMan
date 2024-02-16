@@ -5,6 +5,7 @@ An android application to download audio (mp3) from YouTube videos and from play
 ### Features
 * It is FREE
 * Easy to use
+* High quality audio
 * Download mp3 (single videos)
 * Download mp3 playlist (multiple video directly)
 * New updates coming soon
