@@ -10,7 +10,7 @@
     <br />
     <b>Download for </b>
     Android phones (<a href="https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/releases">GitHub Releases</a> |
-      <a href="https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/releases">SourceForge</a>) 
+      <a href="https://sourceforge.net/projects/youtube-downloader-armoman/">SourceForge</a>) 
     <br />
     <i>~ Look down for more informations ~</i>
   </p>
@@ -35,7 +35,7 @@
 Download from here:
 Links not working for the moment please give us time to develop the app
 * From GitHub: [GitHub Releases](https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/releases).
-* From SourceForge: [SourceForge](https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/releases).
+* From SourceForge: [SourceForge](https://sourceforge.net/projects/youtube-downloader-armoman/).
 
 
 > [!IMPORTANT]
