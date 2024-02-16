@@ -34,8 +34,8 @@
 ### Download APK (app) file links
 Download from here:
 Links not working for the moment please give us time to develop the app
-* From GitHub: [GitHub Releases](https://pages.github.com/).
-* From SourceForge: [SourceForge](https://pages.github.com/).
+* From GitHub: [GitHub Releases](https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/releases).
+* From SourceForge: [SourceForge](https://github.com/ArmoMan/YouTube-Downloader-ArmoMan/releases).
 
 
 > [!IMPORTANT]
